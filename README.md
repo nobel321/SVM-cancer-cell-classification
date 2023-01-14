@@ -3,7 +3,7 @@ Simple support vector machine made in python to classify cancer cells as benign 
 
 ## Use:
 - Clone github repository and run ```python ./main.py```
-**Expected Output:** Matplotlib graph and model evaluation
+- **Expected Output:** Matplotlib graph and model evaluation
 
 ## Credits:
 - Article: NA
