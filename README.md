@@ -1,5 +1,5 @@
-# SVM-cancer-cell-classification
-Simple support vector machine made in python to classify cancer cells as benign or malignant.
+# SVM-tumour-cell-classification
+Simple support vector machine made in python to classify tumour cells as benign or malignant.
 
 ## Use:
 - Clone github repository and run ```python ./main.py```
